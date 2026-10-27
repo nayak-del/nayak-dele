@@ -146,5 +146,5 @@
 
 <p align="center">
   <a href="https://github.com/nayak-del"><img src="https://img.shields.io/badge/GitHub-2a2723?style=for-the-badge&logo=github&logoColor=EBE2CC&labelColor=191816" alt="GitHub" /></a>
-  <a href="mailto:omnayak404@gmail.com"><img src="https://img.shields.io/badge/Email-omnayak404@gmail.com-2a2723?style=for-the-badge&logo=gmail&logoColor=EBE2CC&labelColor=191816" alt="Email" /></a>
+  <a href="mailto:omnayak404@gmail.com"><img src="https://img.shields.io/badge/Email-om.nayak.dev@gmail.com-2a2723?style=for-the-badge&logo=gmail&logoColor=EBE2CC&labelColor=191816" alt="Email" /></a>
 </p>
