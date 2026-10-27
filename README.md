@@ -81,11 +81,7 @@
   </a>
 </p>
 
-<!-- 2. Overall Stats & Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayak-del&show_icons=true&bg_color=191816&title_color=EBE2CC&text_color=DED6C1&icon_color=CFC6B1&border_color=B7B09E" width="49%" alt="GitHub Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayak-del&layout=donut&bg_color=191816&title_color=EBE2CC&text_color=DED6C1&border_color=B7B09E" width="49%" alt="Top Languages" />
-</p>
+
 
 <!-- 3. Profile Summary Cards -->
 <p align="center">
