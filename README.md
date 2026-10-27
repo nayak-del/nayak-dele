@@ -105,30 +105,6 @@
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Profile Contribution Graph" />
 </p>
-
-<!-- 6. Random Dev Quote -->
-<h3 style="color:#DED6C1;">✍️ Random Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=EBE2CC&authorColor=DED6C1&backgroundColor=191816&symbolColor=CFC6B1&borderColor=B7B09E" alt="Random Dev Quote" />
-</p>
-
-<br>
-<hr style="border: 1px solid #B7B09E;">
-<br>
-
-<!-- ==================================================================== -->
-<!-- FEATURED REPOSITORIES                                                -->
-<!-- ==================================================================== -->
-<h2 style="color:#DED6C1;">🌟 Featured Projects:</h2>
-
-| Repository | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **[Alzheimers-Disease-predition](https://github.com/nayak-del/Alzheimers-Disease-predition)** | Python, Jupyter, Scikit-learn | Machine Learning model with Random Forest predicting Alzheimer's Disease at 92.79% accuracy. |
-| **[NER_LOGISTIC_SIH_2026](https://github.com/nayak-del/NER_LOGISTIC_SIH_2026)** | TypeScript, Full-Stack | Smart India Hackathon 2026 (SIH26002) multi-modal logistics solution. |
-| **[Potato_leaf](https://github.com/nayak-del/Potato_leaf)** | Python, Computer Vision, ML | Leaf disease diagnostic system trained with Random Forest classifiers. |
-| **[Sales-Forecasting](https://github.com/nayak-del/Sales-Forecasting)** | Python, Time Series, Pandas | End-to-end e-commerce sales forecasting pipeline with trend & seasonality extraction. |
-| **[VAANI](https://github.com/nayak-del/VAANI)** | Python, NLP / Audio | Voice & language recognition toolkit. |
-
 <br>
 
 <p align="center">
