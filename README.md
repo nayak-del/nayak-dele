@@ -27,14 +27,10 @@
 
 <p>
   <b style="color:#EBE2CC;">Languages:</b>&nbsp;&nbsp;&nbsp;
-  <img src="assets/c.png" height="40" alt="C"/>&nbsp;&nbsp;
-  <img src="assets/c++.png" height="40" alt="C++"/>&nbsp;&nbsp;
   <img src="assets/html.png" height="40" alt="HTML5"/>&nbsp;&nbsp;
   <img src="assets/css.png" height="40" alt="CSS3"/>&nbsp;&nbsp;
   <img src="assets/javascript.png" height="40" alt="JavaScript"/>&nbsp;&nbsp;
-  <img src="assets/java.png" height="40" alt="Java"/>&nbsp;&nbsp;
   <img src="assets/python.png" height="40" alt="Python"/>&nbsp;&nbsp;
-  <img src="assets/dart.png" height="40" alt="Dart"/>
   <br><br><br>
 
   <b style="color:#EBE2CC;">Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
@@ -53,8 +49,6 @@
   <b style="color:#EBE2CC;">Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
   <img src="assets/git.png" height="40" alt="Git"/>&nbsp;&nbsp;
   <img src="assets/githubicon.png" height="40" alt="GitHub"/>&nbsp;&nbsp;
-  <img src="assets/CLion.png" height="40" alt="CLion"/>&nbsp;&nbsp;
-  <img src="assets/IntelliJIDEA.png" height="40" alt="IntelliJ IDEA"/>&nbsp;&nbsp;
   <img src="assets/PyCharm.png" height="40" alt="PyCharm"/>&nbsp;&nbsp;
   <img src="assets/androidstudio.png" height="40" alt="Android Studio"/>&nbsp;&nbsp;
   <img src="assets/antigravity.png" height="40" alt="Platform"/>&nbsp;&nbsp;
@@ -65,10 +59,7 @@
   <img src="assets/copilot.png" height="40" alt="Copilot"/>&nbsp;&nbsp;
   <img src="assets/jupyter.png" height="40" alt="Jupyter"/>&nbsp;&nbsp;
   <img src="assets/colab.png" height="40" alt="Colab"/>&nbsp;&nbsp;
-  <img src="assets/Postman.svg" height="40" alt="Postman"/>&nbsp;&nbsp;
   <img src="assets/512x512.svg" height="40" alt="App"/>&nbsp;&nbsp;
-  <img src="assets/Ubuntu.svg" height="40" alt="Ubuntu"/>&nbsp;&nbsp;
-  <img src="assets/linux.png" height="40" alt="Linux"/>
   <br><br><br>
 
   <img src="assets/databases.png" height="40" alt="Databases">&nbsp;&nbsp;&nbsp;<b style="color:#EBE2CC;">Databases :</b>&nbsp;&nbsp;&nbsp;<img src="assets/mysql.png" height="40" alt="MySQL">
