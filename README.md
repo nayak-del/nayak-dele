@@ -1,148 +1,138 @@
-<div align="center">
-
-  <!-- DYNAMIC TYPING SVG HEADER -->
+<p align="center">
   <a href="https://github.com/nayak-del">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F0F6FC&background=0D111700&center=true&vCenter=true&width=680&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Om+Nayak;Data+Science+%26+ML+Practitioner;Full-Stack+%26+Flutter+Developer;%22In+God+we+trust%2C+all+others+must+bring+data.%22" alt="Typing SVG" />
-  </a>
-
-  <!-- PROFILE BADGES -->
-  <p align="center">
-    <a href="https://github.com/nayak-del"><img src="https://img.shields.io/badge/GitHub-nayak--del-21262d?style=for-the-badge&logo=github&logoColor=f0f6fc&labelColor=0d1117" alt="GitHub Profile" /></a>
-    <a href="https://github.com/nayak-del?tab=repositories"><img src="https://img.shields.io/badge/Projects-7%20Public%20Repos-21262d?style=for-the-badge&logo=git&logoColor=f0f6fc&labelColor=0d1117" alt="Repositories" /></a>
-    <img src="https://img.shields.io/badge/Location-Odisha%2C%20India-21262d?style=for-the-badge&logo=googlemaps&logoColor=f0f6fc&labelColor=0d1117" alt="Location" />
-  </p>
-
-  <p align="center">
-    <i>"In God we trust, all others must bring data."</i>
-  </p>
-
-</div>
-
-<br/>
-
-<!-- ==================================================================== -->
-<!-- SECTION 1: TECH STACK (IMAGE 2)                                      -->
-<!-- ==================================================================== -->
-## 💻 Tech Stack
-
-### 🌐 Languages:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,ts,java,py,dart&theme=dark" alt="Languages" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Om!;Data+Science+%26+ML+Practitioner;Full-Stack+%26+Flutter+Developer;In+God+we+trust%2C+all+others+must+bring+data.&font=Fira%20Code&center=true&width=640&height=45&color=EBE2CC&vCenter=true&pause=1000&size=24" alt="Typing SVG" />
   </a>
 </p>
 
-### 📚 Libraries & Frameworks:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,spring,flutter,keras,tensorflow,pytorch,sklearn,tailwind,redux&theme=dark" alt="Libraries & Frameworks" />
+<p align="center">
+  <a href="https://github.com/nayak-del">
+    <img src="https://img.shields.io/badge/GitHub-nayak--del-2a2723?style=for-the-badge&logo=github&logoColor=EBE2CC&labelColor=191816" alt="GitHub Profile" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/nayak-del?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-7%20Public%20Repos-2a2723?style=for-the-badge&logo=git&logoColor=EBE2CC&labelColor=191816" alt="Repositories" />
+  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Location-Odisha%2C%20India-2a2723?style=for-the-badge&logo=googlemaps&logoColor=EBE2CC&labelColor=191816" alt="Location" />
+</p>
+
+<p align="center" style="color:#CFC6B1;">
+  <i>"In God we trust, all others must bring data."</i>
+</p>
+
+<br>
+
+<!-- ==================================================================== -->
+<!-- TECH STACK (IMAGE 2)                                                 -->
+<!-- ==================================================================== -->
+<h2 style="color:#DED6C1;">💻 Tech Stack:</h2>
+
+<p>
+  <b style="color:#EBE2CC;">Languages:</b>&nbsp;&nbsp;&nbsp;
+  <img src="assets/c.png" height="40" alt="C"/>&nbsp;&nbsp;
+  <img src="assets/c++.png" height="40" alt="C++"/>&nbsp;&nbsp;
+  <img src="assets/html.png" height="40" alt="HTML5"/>&nbsp;&nbsp;
+  <img src="assets/css.png" height="40" alt="CSS3"/>&nbsp;&nbsp;
+  <img src="assets/javascript.png" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+  <img src="assets/java.png" height="40" alt="Java"/>&nbsp;&nbsp;
+  <img src="assets/python.png" height="40" alt="Python"/>&nbsp;&nbsp;
+  <img src="assets/dart.png" height="40" alt="Dart"/>
+  <br><br><br>
+
+  <b style="color:#EBE2CC;">Libraries & Frameworks:</b>&nbsp;&nbsp;&nbsp;
+  <img src="assets/react.png" height="40" alt="React"/>&nbsp;&nbsp;
+  <img src="assets/springboot.png" height="40" alt="Spring Boot"/>&nbsp;&nbsp;
+  <img src="assets/flutter.png" height="40" alt="Flutter"/>&nbsp;&nbsp;
+  <img src="assets/numpy.png" height="40" alt="NumPy"/>&nbsp;&nbsp;
+  <img src="assets/keras.png" height="40" alt="Keras"/>&nbsp;&nbsp;
+  <img src="assets/tensorflow.png" height="40" alt="TensorFlow"/>&nbsp;&nbsp;
+  <img src="assets/pandas.png" height="40" alt="Pandas"/>&nbsp;&nbsp;
+  <img src="assets/pytorch.png" height="40" alt="PyTorch"/>&nbsp;&nbsp;
+  <img src="assets/scikit-learn.png" height="40" alt="Scikit-Learn"/>&nbsp;&nbsp;
+  <img src="assets/matplotlib.png" height="40" alt="Matplotlib"/>
+  <br><br><br>
+
+  <b style="color:#EBE2CC;">Tools & Platforms:</b>&nbsp;&nbsp;&nbsp;
+  <img src="assets/git.png" height="40" alt="Git"/>&nbsp;&nbsp;
+  <img src="assets/githubicon.png" height="40" alt="GitHub"/>&nbsp;&nbsp;
+  <img src="assets/CLion.png" height="40" alt="CLion"/>&nbsp;&nbsp;
+  <img src="assets/IntelliJIDEA.png" height="40" alt="IntelliJ IDEA"/>&nbsp;&nbsp;
+  <img src="assets/PyCharm.png" height="40" alt="PyCharm"/>&nbsp;&nbsp;
+  <img src="assets/androidstudio.png" height="40" alt="Android Studio"/>&nbsp;&nbsp;
+  <img src="assets/antigravity.png" height="40" alt="Platform"/>&nbsp;&nbsp;
+  <img src="assets/word.png" height="40" alt="Word"/>&nbsp;&nbsp;
+  <img src="assets/excel.png" height="40" alt="Excel"/>&nbsp;&nbsp;
+  <img src="assets/powerpoint.png" height="40" alt="PowerPoint"/>&nbsp;&nbsp;
+  <img src="assets/vsCode.png" height="40" alt="VS Code"/>&nbsp;&nbsp;
+  <img src="assets/copilot.png" height="40" alt="Copilot"/>&nbsp;&nbsp;
+  <img src="assets/jupyter.png" height="40" alt="Jupyter"/>&nbsp;&nbsp;
+  <img src="assets/colab.png" height="40" alt="Colab"/>&nbsp;&nbsp;
+  <img src="assets/Postman.svg" height="40" alt="Postman"/>&nbsp;&nbsp;
+  <img src="assets/512x512.svg" height="40" alt="App"/>&nbsp;&nbsp;
+  <img src="assets/Ubuntu.svg" height="40" alt="Ubuntu"/>&nbsp;&nbsp;
+  <img src="assets/linux.png" height="40" alt="Linux"/>
+  <br><br><br>
+
+  <img src="assets/databases.png" height="40" alt="Databases">&nbsp;&nbsp;&nbsp;<b style="color:#EBE2CC;">Databases :</b>&nbsp;&nbsp;&nbsp;<img src="assets/mysql.png" height="40" alt="MySQL">
+</p>
+
+<br>
+<hr style="border: 1px solid #B7B09E;">
+<br>
+
+<!-- ==================================================================== -->
+<!-- GITHUB ANALYTICS & STATS (IMAGE 1)                                   -->
+<!-- ==================================================================== -->
+<h2 style="color:#DED6C1;">📊 GitHub Analytics & Activity:</h2>
+
+<!-- 1. Streak Stats -->
+<p align="center">
+  <a href="https://github.com/nayak-del">
+    <img src="https://streak-stats.demolab.com/?user=nayak-del&background=191816&border=B7B09E&stroke=CFC6B1&ring=EBE2CC&fire=DED6C1&currStreakNum=EBE2CC&sideNums=EBE2CC&currStreakLabel=DED6C1&sideLabels=CFC6B1&dates=B7B09E" width="100%" alt="GitHub Streak Stats" />
   </a>
 </p>
 
-### 🛠️ Tools & Platforms:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,clion,idea,pycharm,linux,ubuntu,postman,bash&theme=dark" alt="Tools & Platforms" />
-  </a>
+<!-- 2. Overall Stats & Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayak-del&show_icons=true&bg_color=191816&title_color=EBE2CC&text_color=DED6C1&icon_color=CFC6B1&border_color=B7B09E" width="49%" alt="GitHub Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayak-del&layout=donut&bg_color=191816&title_color=EBE2CC&text_color=DED6C1&border_color=B7B09E" width="49%" alt="Top Languages" />
 </p>
 
-### 🗄️ Databases:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite&theme=dark" alt="Databases" />
-  </a>
+<!-- 3. Profile Summary Cards -->
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark_dimmed/1-repos-per-language.svg" width="33%" alt="Top Languages by Repo" />
+  <img src="./profile-summary-card-output/github_dark_dimmed/2-most-commit-language.svg" width="33%" alt="Top Languages by Commit" />
+  <img src="./profile-summary-card-output/github_dark_dimmed/4-productive-time.svg" width="33%" alt="Commits UTC +05:30" />
+</p>
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark_dimmed/0-profile-details.svg" width="100%" alt="Profile Overview" />
 </p>
 
-<br/>
+<!-- 4. Contribution Snake Grid -->
+<p align="center">
+  <img src="assets/snakegridtitle.gif" width="500" alt="Contribution Snake Grid" />
+</p>
+<p align="center">
+  <img src="./dist/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</p>
 
----
+<!-- 5. 3D Isometric Contribution Graph -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Profile Contribution Graph" />
+</p>
 
-<br/>
+<!-- 6. Random Dev Quote -->
+<h3 style="color:#DED6C1;">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&quoteColor=EBE2CC&authorColor=DED6C1&backgroundColor=191816&symbolColor=CFC6B1&borderColor=B7B09E" alt="Random Dev Quote" />
+</p>
 
-<!-- ==================================================================== -->
-<!-- SECTION 2: GITHUB ANALYTICS & ACTIVITY (IMAGE 1)                      -->
-<!-- ==================================================================== -->
-## 📊 GitHub Analytics & Activity
-
-<!-- 1. GITHUB STREAK STATS -->
-<div align="center">
-  <a href="https://github.com/nayak-del">
-    <img src="https://streak-stats.demolab.com/?user=nayak-del&background=0d1117&border=30363d&stroke=8b949e&ring=e6edf3&fire=d0d7de&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=6e7681" alt="GitHub Streak Stats" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-<!-- 2. OVERALL STATS & TOP LANGUAGES -->
-<div align="center">
-  <a href="https://github.com/nayak-del">
-    <img src="https://github-readme-stats.vercel.app/api?username=nayak-del&show_icons=true&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&icon_color=8b949e&border_color=30363d" width="49.2%" alt="GitHub Overall Stats" />
-  </a>
-  <a href="https://github.com/nayak-del">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayak-del&layout=compact&bg_color=0d1117&title_color=f0f6fc&text_color=c9d1d9&border_color=30363d" width="49.2%" alt="Top Languages Stats" />
-  </a>
-</div>
-
-<br/>
-
-<!-- 3. PROFILE SUMMARY CARDS (Top Languages by Repo, Commit, Productive Time, Profile Card) -->
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="33.3%" align="center">
-        <img src="./profile-summary-card-output/github_dark_dimmed/1-repos-per-language.svg" width="100%" alt="Top Languages by Repo" />
-      </td>
-      <td width="33.3%" align="center">
-        <img src="./profile-summary-card-output/github_dark_dimmed/2-most-commit-language.svg" width="100%" alt="Top Languages by Commit" />
-      </td>
-      <td width="33.3%" align="center">
-        <img src="./profile-summary-card-output/github_dark_dimmed/4-productive-time.svg" width="100%" alt="Commits UTC +05:30" />
-      </td>
-    </tr>
-  </table>
-  <br/>
-  <img src="./profile-summary-card-output/github_dark_dimmed/0-profile-details.svg" width="100%" alt="Profile Details" />
-</div>
-
-<br/>
-
-<!-- 4. CONTRIBUTION SNAKE GRID -->
-<div align="center">
-  <h3>CONTRIBUTION SNAKE GRID</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake Grid" src="./dist/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
-
-<br/>
-
-<!-- 5. 3D ISOMETRIC CONTRIBUTION GRAPH -->
-<div align="center">
-  <a href="https://github.com/nayak-del">
-    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Profile Contribution Graph" width="100%" />
-  </a>
-</div>
-
-<br/>
-
-<!-- 6. RANDOM DEV QUOTE -->
-<div align="center">
-  <h3>✍️ Random Dev Quote</h3>
-  <img src="https://quotes-github-readme.vercel.app/api?theme=github_dark" alt="Random Dev Quote" />
-</div>
-
-<br/>
-
----
-
-<br/>
+<br>
+<hr style="border: 1px solid #B7B09E;">
+<br>
 
 <!-- ==================================================================== -->
-<!-- SECTION 3: FEATURED REPOSITORIES                                     -->
+<!-- FEATURED REPOSITORIES                                                -->
 <!-- ==================================================================== -->
-## 🌟 Featured Repositories
+<h2 style="color:#DED6C1;">🌟 Featured Projects:</h2>
 
 | Repository | Tech Stack | Highlights |
 | :--- | :--- | :--- |
@@ -152,14 +142,9 @@
 | **[Sales-Forecasting](https://github.com/nayak-del/Sales-Forecasting)** | Python, Time Series, Pandas | End-to-end e-commerce sales forecasting pipeline with trend & seasonality extraction. |
 | **[VAANI](https://github.com/nayak-del/VAANI)** | Python, NLP / Audio | Voice & language recognition toolkit. |
 
-<br/>
+<br>
 
-<!-- ==================================================================== -->
-<!-- SECTION 4: CONNECT                                                   -->
-<!-- ==================================================================== -->
-<div align="center">
-  <h2>📬 Connect With Me</h2>
-  <a href="https://github.com/nayak-del"><img src="https://img.shields.io/badge/GitHub-21262d?style=for-the-badge&logo=github&logoColor=f0f6fc&labelColor=0d1117" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=f0f6fc&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="mailto:omnayak404@gmail.com"><img src="https://img.shields.io/badge/Email-omnayak404@gmail.com-21262d?style=for-the-badge&logo=gmail&logoColor=f0f6fc&labelColor=0d1117" alt="Email" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/nayak-del"><img src="https://img.shields.io/badge/GitHub-2a2723?style=for-the-badge&logo=github&logoColor=EBE2CC&labelColor=191816" alt="GitHub" /></a>
+  <a href="mailto:omnayak404@gmail.com"><img src="https://img.shields.io/badge/Email-omnayak404@gmail.com-2a2723?style=for-the-badge&logo=gmail&logoColor=EBE2CC&labelColor=191816" alt="Email" /></a>
+</p>
